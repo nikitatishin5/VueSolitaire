@@ -105,6 +105,7 @@ Choose from 3 variants of solitaire form the main menu
 npm install
 npm run serve
 ```
+:white_check_mark: **ATTENTION! Убедитесь что Вы клонируете репу в паку, путь к которй не сожержит знак @**
 
 ## Future scope
 
